@@ -42,3 +42,11 @@ site.textarea.char_limit = (Limit is {0} characters)
 
 unauthorised.title = You can’t access this service with this account
 unauthorised.heading = You can’t access this service with this account
+
+whenDidYouStartWorkingFromHome.title = When did you start working from home?
+whenDidYouStartWorkingFromHome.heading = When did you start working from home?
+whenDidYouStartWorkingFromHome.checkYourAnswersLabel = WhenDidYouStartWorkingFromHome
+whenDidYouStartWorkingFromHome.error.required.all = Enter the whenDidYouStartWorkingFromHome
+whenDidYouStartWorkingFromHome.error.required.two = The whenDidYouStartWorkingFromHome must include {0} and {1}
+whenDidYouStartWorkingFromHome.error.required = The whenDidYouStartWorkingFromHome must include {0}
+whenDidYouStartWorkingFromHome.error.invalid = Enter a real WhenDidYouStartWorkingFromHome
